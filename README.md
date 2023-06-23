@@ -1,7 +1,7 @@
 # Paws
 Tuwaiq bootcamp final project
 
-The project  
+The project
 <a href="https://github.com/AhmadAlmudhi/paws-frontend/tree/main/paws_frontend" target="_blank">frontend</a>
 repository
 
