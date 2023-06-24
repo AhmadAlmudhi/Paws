@@ -46,35 +46,32 @@ repository
 
 <a href="https://github.com/AhmadAlmudhi" target="_blank">Ahmad Almudhi</a>
 
-<h5>team leader :
-I worked on the entire back-end part of the project. I participated with my team in the front-end part, such as: 
+<h5>Team leader :
+I worked on the entire back-end part of the project. I participated with my team in the front-end part, such as: <br>
  - designing the post<h5/>
  
 <a href="https://github.com/3Maali" target="_blank">Maali Alkhaldi</a>
-<br>
 
 <h5>Team member:
-I worked on designing the application using figma and worked on the front end part of the project, such as:
+I worked on designing the application using figma and worked on the front end part of the project, such as: <br>
 - create post
 - profile
 - edit profile <h5/>
 <br> 
 
 <a href="https://github.com/renad17" target="_blank">Renad Alnasser</a>
-<br>
 
 <h5>Team member:
 I participated with my team on the back-end part of the project
-I worked on the front end part of the project, such as:
+I worked on the front end part of the project, such as: <br>
 - Animal details
 - edit profile
  <h5/>
 <br> 
 <a href="https://github.com/shuruqalharthi12" target="_blank">Shuruq Alharthi</a>
-  <br>
   <h5>
 Team member:
-I worked on the front end part of the project, such as:
+I worked on the front end part of the project, such as:<br>
 - create post
 - signup
 - login <h5/>
