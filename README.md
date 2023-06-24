@@ -8,8 +8,8 @@ In shelters, many pets lost ,abandoned or abused, need a new life and a home ful
 The owners who abandon their pets often throw them away when they can't find someone to take care of them, which causes harm and mistreatment of the pets 
 
 Other people are looking to adopt an pets and give it a loving home, but finding pets available for adoption or finding information about the owner is hard.
-
 <br/>
+
 # Here comes our turn at :
 
 ![Alt text](https://github.com/AhmadAlmudhi/Paws/blob/main/PAWS%20LOGO.png?raw=true)
@@ -38,6 +38,7 @@ repository
 repository
 
 <br/>
+
 # 👥 PAWS TEAM 
 
 
