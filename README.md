@@ -24,6 +24,8 @@ Other people are looking to adopt an pets and give it a loving home, but finding
 
 
 
+<br/>
+
 📎The project
 <a href="https://www.canva.com/design/DAFmfb_730I/3AA9hSC8RczlMfb8dIQ7Kw/view?utm_content=DAFmfb_730I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">presentation</a>
 
@@ -36,7 +38,7 @@ repository
 repository
 
 
-# PAWS TEAM 👥
+# 👥 PAWS TEAM 
 
 
 <a href="https://github.com/AhmadAlmudhi" target="_blank">Ahmad Almudhi</a>
