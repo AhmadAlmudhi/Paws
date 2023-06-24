@@ -12,6 +12,15 @@ Other people are looking to adopt an pets and give it a loving home, but finding
 ![Alt text](https://github.com/AhmadAlmudhi/Paws/blob/main/PAWS%20LOGO.png?raw=true)
 
 
+🐾 Locate & keep track of available pets.
+
+🐾 Help to find a pet to match user personality & lifestyle.
+
+🐾 the ability to enhance the adoption process
+
+ 🐾 help to connect pets with loving homes
+
+
 The project
 <a href="https://www.canva.com/design/DAFmfb_730I/3AA9hSC8RczlMfb8dIQ7Kw/view?utm_content=DAFmfb_730I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">presentation</a>
 
