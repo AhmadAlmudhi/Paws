@@ -20,11 +20,7 @@ Other people are looking to adopt an pets and give it a loving home, but finding
 
  🐾 help to connect pets with loving homes
 
-
-
-
-
-
+<br/>
 
 
 📎The project
