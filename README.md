@@ -43,7 +43,7 @@ repository
 
 
 <a href="https://github.com/AhmadAlmudhi" target="_blank">Ahmad Almudhi</a>
-<br/>
+<br>
 <a href="https://github.com/3Maali" target="_blank">Maali Alkhaldi</a>
 <br>
 <a href="https://github.com/renad17" target="_blank">Renad Alnasser</a>
