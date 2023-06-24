@@ -1,5 +1,5 @@
 #  🐾 Paws
-<p>Tuwaiq Flutter bootcamp final project</p>
+<h2>Tuwaiq Flutter bootcamp final project</h2>
 
 In shelters, many pets lost ,abandoned or abused, need a new life and a home full of love
 
